@@ -12,7 +12,9 @@ Worked iT Technician and Sales Specialist (Full Time) at Nike Factory Store, but
 ##  </> Hard-Skills 
 - **Languages:** Java | JavaScript | Typescrpit | Kotlin
 - **Web Developer:** HTML, CSS | SASS | Bootstrap | React | Spring Boot | React | Node.js
-- **Databases:** MySQL | PostgreSQL | MongoDB 
+- **Develops:** OpenShift environment | Jenkins
+- **Databases:** MySQL | PostgreSQL | MongoDB
+- **Agile:** Kanban | Jira | SCRUM
 #
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=200&size=17&duration=4000&pause=4000&color=00E42F&background=FFFFFF00&width=435&lines=Hey,+thanks+for+stopping+by!" alt="Typing SVG" /></a>
 
