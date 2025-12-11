@@ -1,9 +1,9 @@
 ## Olaa, eu sou o Werther Matos, Estudante e Inovador de programação e tecnologia! 💻👨🏻‍💻
 
 - 📌 Atualmente estou cursando ADS (Analise e Desenv. de Sistemas) na Uniasselvi e tenho 1 ano e meio de experiencia em programação;
-- 🔭 Atualmente estou trabalhando com as tecnologias _Java, JavaScript, SpringBoot, AngularJS, MongoDB, SQL, Docker e Testing (JUnit, Mockito) com metodologia ágil SCRUM e Agile;
+- 🔭 Atualmente estou trabalhando com as tecnologias Java, JavaScript, SpringBoot, AngularJS, MongoDB, SQL, Docker e Testing (JUnit, Mockito) com metodologia ágil SCRUM e Agile;
 - 🌱 Meu objetivo é me desenvolver como Full-Stack Developer;
-- 🤝 Estou procurando colaborar em projetos de ciência de dados, Hackertons e FreeCodes, agregando mais aprendizado;
+- 🤝 Estou a procura de projetos para agregar mais aprendizado.
 
 <div align="center">
   <a href="https://github.com/werther-matos">
