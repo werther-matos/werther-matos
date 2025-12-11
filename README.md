@@ -14,3 +14,5 @@ Worked iT Technician and Sales Specialist (Full Time) at Nike Factory Store, but
 - **Web Developer:** HTML, CSS | SASS | Bootstrap | React | Spring Boot | React | Node.js
 - **Databases:** MySQL | PostgreSQL | MongoDB 
 #
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=200&size=17&duration=4000&pause=4000&color=00E42F&background=FFFFFF00&width=435&lines=Hey,+thanks+for+stopping+by!" alt="Typing SVG" /></a>
+
