@@ -1,28 +1,16 @@
-## Olaa, eu sou o Werther Matos, Estudante e Inovador de programação e tecnologia! 💻👨🏻‍💻
 
-- 📌 Atualmente estou cursando ADS (Analise e Desenv. de Sistemas) na Uniasselvi e tenho 1 ano e meio de experiencia em programação;
-- 🔭 Atualmente estou trabalhando com as tecnologias Java, JavaScript, SpringBoot, AngularJS, MongoDB, SQL, Docker e Testing (JUnit, Mockito) com metodologia ágil SCRUM e Agile;
-- 🌱 Meu objetivo é me desenvolver como Full-Stack Developer;
-- 🤝 Estou a procura de projetos para agregar mais aprendizado.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=30&duration=4000&pause=4000&color=00E42F&background=FFFFFF00&width=435&lines=Hi+there%2C+I'm+Werther+Matos!" alt="Typing SVG" /></a>
 
-<div align="center">
-  <a href="https://github.com/werther-matos">
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="WM-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="WM-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="WM-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="WM-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="WM-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="WM-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="WM-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-</div>
-  
-  ##
- 
-<div> 
- <a href="https://www.linkedin.com/in/werthermatos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:contatowerthermatos@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
- <a href="https://instagram.com/lua_werther_sol" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+## info.txt ⎯ ❐ ⤬
+
+Worked iT Technician and Sales Specialist (Full Time) at Nike Factory Store, but currently expanding my technical background while pursuing a Bachelor's Degree in Systems Analysis and Software Development at Leonardo da Vinci. 
+ - 🏆 Proficient in Web Development and Web Design, with a focus on creating clean, functional and user-centered digital experiences.
+- 📃 Explore my projects and achievements through my online resume. 
+- 🌐 You can reach me by Gmail or connect with me on LinkedIn. 
+- 📍 Based in Tijucas, Santa Catarina, Brazil.
+
+##  </> Hard-Skills 
+- **Languages:** Java | JavaScript | Typescrpit | Kotlin
+- **Web Developer:** HTML, CSS | SASS | Bootstrap | React | Spring Boot | React | Node.js
+- **Databases:** MySQL | PostgreSQL | MongoDB 
+#
